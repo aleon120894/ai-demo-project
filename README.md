@@ -7,7 +7,7 @@ The goal is to show hands-on experience with data preprocessing, training models
 
 - Data preprocessing and handling (Pandas, NumPy)
 - Machine Learning model training (scikit-learn)
-- Example dataset: Iris
+- Example dataset: Iris, SMS Dataset, Titanic Dataset
 - Model evaluation with accuracy metric
 - Structured code for production (`src/`, `tests/`)
 - Easy to extend with new datasets or models
@@ -38,7 +38,7 @@ ai-demo-project/
 ## Instalation
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/ai-demo-project.git
+git clone https://github.com/aleon120894/ai-demo-project.git
 cd ai-demo-project
 
 # Create a virtual environment and activate it
